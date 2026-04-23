@@ -154,7 +154,7 @@ jupyter notebook Customer_Churn_Analysis.ipynb
 
 ## 👤 Author
 **Devendra**
-- 📧 [patil.devendra082@gmail.com]
+- 📧 [patil.devendra062@gmail.com]
 - 💼 [https://www.linkedin.com/in/patil-devendra2701/]
 - 🐙 [https://github.com/Devendra0602]
 
