@@ -134,7 +134,7 @@ Phase 5: Business Insights & Recommendations
 
 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-churn-analysis.git
+git clone https://github.com/Devendra0602/customer-churn-analysis.git
 cd customer-churn-analysis
 ```
 
@@ -154,9 +154,9 @@ jupyter notebook Customer_Churn_Analysis.ipynb
 
 ## 👤 Author
 **Devendra**
-- 📧 [Your Email]
-- 💼 [Your LinkedIn URL]
-- 🐙 [Your GitHub URL]
+- 📧 [patil.devendra082@gmail.com]
+- 💼 [https://www.linkedin.com/in/patil-devendra2701/]
+- 🐙 [https://github.com/Devendra0602]
 
 ---
 
